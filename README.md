@@ -1,3 +1,2 @@
 # Netflix-Global-Content-Overview-Dashboard
-# Netflix-Global-Content-Overview-Dashboard
-# Netflix-Global-Content-Overview-Dashboard
+![Netlfix Dashboard](img.png)
